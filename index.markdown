@@ -14,6 +14,3 @@ This site is hosted on a 1GB Racknerd VPS behind Cloudflare and uses the Jekyll 
 Interested in learning how to do this yourself? I'll write about how i set this all up. In the meantime, keep an eye out for new posts.
 
 Email me at admin at learndev.me with any feedback or questions :)
-<p>
-<button class="btn js-toggle-dark-mode">Preview dark color scheme</button>
-</p>
