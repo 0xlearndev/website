@@ -29,6 +29,7 @@ github_username:  learndev
 
 # Build settings
 theme: just-the-docs
+color_scheme: light
 plugins:
   - jekyll-feed
 
